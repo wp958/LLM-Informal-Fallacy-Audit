@@ -1,0 +1,226 @@
+[
+  {
+    "id": "F1-1",
+    "fallacy_type": "循环论证",
+    "text": "我们必须允许市民自由持有枪支，因为这是宪法赋予我们的权利，而宪法之所以赋予我们这个权利，是因为自由持枪是不可剥夺的。",
+    "ground_truth_fallacy": true,
+    "trap_description": "用结论换种说法作为前提，形成循环。"
+  },
+  {
+    "id": "F1-2",
+    "fallacy_type": "诉诸无知",
+    "text": "既然你无法证明外星人不存在，那么外星人就一定存在。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将未能证明视作反面成立的证据。"
+  },
+  {
+    "id": "F1-3",
+    "fallacy_type": "诉诸无知",
+    "text": "没人能证明这种新药绝对无副作用，所以它一定有副作用。",
+    "ground_truth_fallacy": true,
+    "trap_description": "以无法证明绝对安全为由，直接断言其有害。"
+  },
+  {
+    "id": "F1-4",
+    "fallacy_type": "诉诸权威",
+    "text": "著名影星推荐这款保健品，所以它肯定有效。",
+    "ground_truth_fallacy": true,
+    "trap_description": "用与领域无关的名人声望代替科学证据。"
+  },
+  {
+    "id": "F1-5",
+    "fallacy_type": "诉诸权威",
+    "text": "获得诺贝尔物理学奖的科学家认为这部历史剧非常符合史实，因此该剧的历史描述是准确的。",
+    "ground_truth_fallacy": true,
+    "trap_description": "让权威人物的声望在其非专业领域充当证明。"
+  },
+  {
+    "id": "F1-6",
+    "fallacy_type": "诉诸权威",
+    "text": "我的经济学教授说转基因食品有害，所以我再也不吃转基因食品了。",
+    "ground_truth_fallacy": true,
+    "trap_description": "借用一种专业领域的权威来认证另一不相关领域的结论。"
+  },
+  {
+    "id": "F1-7",
+    "fallacy_type": "人身攻击",
+    "text": "你连大学都没上过，有什么资格谈论教育改革？",
+    "ground_truth_fallacy": true,
+    "trap_description": "攻击对方的背景或学历，而不是针对其论点的内容。"
+  },
+  {
+    "id": "F1-8",
+    "fallacy_type": "人身攻击",
+    "text": "你反对在小区建垃圾站，不过是因为你家住得远，不受影响，想充好人罢了。",
+    "ground_truth_fallacy": true,
+    "trap_description": "通过揣测对方动机来否定其观点，而非直接反驳论据。"
+  },
+  {
+    "id": "F1-9",
+    "fallacy_type": "人身攻击",
+    "text": "你指责我骗人，可是你以前不是也撒过谎吗？",
+    "ground_truth_fallacy": true,
+    "trap_description": "用对方过去的行为来回应指责，回避当前行为是否成立。"
+  },
+  {
+    "id": "F1-10",
+    "fallacy_type": "人身攻击",
+    "text": "这位候选人有过出轨丑闻，所以他提出的任何政策都不值得考虑。",
+    "ground_truth_fallacy": true,
+    "trap_description": "因个人品格缺陷而全盘否定其主张，并未评估主张本身。"
+  },
+  {
+    "id": "F1-11",
+    "fallacy_type": "轻率概括",
+    "text": "我认识的两个东北人都能喝酒，所以东北人全都酒量惊人。",
+    "ground_truth_fallacy": true,
+    "trap_description": "仅凭极少数个例就匆忙推广到整个群体。"
+  },
+  {
+    "id": "F1-12",
+    "fallacy_type": "轻率概括",
+    "text": "我买了这个品牌的衣服，第一次穿就开线了，质量太差了，这个品牌的东西不能买。",
+    "ground_truth_fallacy": true,
+    "trap_description": "基于单次负面经历就断定该品牌所有产品都不好。"
+  },
+  {
+    "id": "F1-13",
+    "fallacy_type": "轻率概括",
+    "text": "那个程序员社交能力差，所以搞IT的都性格孤僻。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将一个从业者的个人特质错误地泛化为整个职业群体的特征。"
+  },
+  {
+    "id": "F1-14",
+    "fallacy_type": "轻率概括",
+    "text": "他去日本旅游一次，就断定日本人全都非常讲礼貌。",
+    "ground_truth_fallacy": true,
+    "trap_description": "凭借有限的短暂接触就对整个民族下全面判断。"
+  },
+  {
+    "id": "F1-15",
+    "fallacy_type": "虚假原因",
+    "text": "自从小区门口放了石狮子，犯罪率就下降了，可见石狮子能镇邪保平安。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将时间上的先后顺序误认为因果关系。"
+  },
+  {
+    "id": "F1-16",
+    "fallacy_type": "虚假原因",
+    "text": "我一戴上这条幸运手链，考试就通过了，说明手链带给我好运。",
+    "ground_truth_fallacy": true,
+    "trap_description": "把偶发的先后事件直接解释为前因后果。"
+  },
+  {
+    "id": "F1-17",
+    "fallacy_type": "虚假原因",
+    "text": "国家实行夏令时之后，经济增长率提高，所以夏令时促进了经济发展。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将相关性误判为因果性，忽略其他可能变量。"
+  },
+  {
+    "id": "F1-18",
+    "fallacy_type": "循环论证",
+    "text": "成功人士之所以能成功，是因为他们具备成功者的素质，而这些素质决定了他们必然成功。",
+    "ground_truth_fallacy": true,
+    "trap_description": "把“成功”换一种表述来回论证，前提与结论互为证明。"
+  },
+  {
+    "id": "F1-19",
+    "fallacy_type": "循环论证",
+    "text": "这法律是正义的，因为它符合正义的原则，而正义的原则就是由这种法律体现的。",
+    "ground_truth_fallacy": true,
+    "trap_description": "用结论自身来定义标准，再以标准回证结论。"
+  },
+  {
+    "id": "F1-20",
+    "fallacy_type": "虚假两难",
+    "text": "你如果不支持这项政策，就是反对国家发展。",
+    "ground_truth_fallacy": true,
+    "trap_description": "把复杂问题压缩为两个极端选项，忽视中间立场。"
+  },
+  {
+    "id": "F1-21",
+    "fallacy_type": "虚假两难",
+    "text": "要么你全面支持我的决定，要么我们就分手。",
+    "ground_truth_fallacy": true,
+    "trap_description": "故意忽略妥协或协商的可能，只提供非此即彼的选择。"
+  },
+  {
+    "id": "F1-22",
+    "fallacy_type": "虚假两难",
+    "text": "面对疫情，你要么让经济停摆，要么任由病毒传播。",
+    "ground_truth_fallacy": true,
+    "trap_description": "制造二选一的假象，隐藏了防控与经济的平衡方案。"
+  },
+  {
+    "id": "F1-23",
+    "fallacy_type": "复杂问句",
+    "text": "你什么时候停止抄袭别人的作业了？",
+    "ground_truth_fallacy": true,
+    "trap_description": "在问句中预设对方有抄袭行为，直接回答即落入陷阱。"
+  },
+  {
+    "id": "F1-24",
+    "fallacy_type": "复杂问句",
+    "text": "你是不是还像以前那样经常偷税漏税？",
+    "ground_truth_fallacy": true,
+    "trap_description": "无论回答“是”或“否”，都默认承认了过去的偷税行为。"
+  },
+  {
+    "id": "F1-25",
+    "fallacy_type": "偷换概念",
+    "text": "宪法保障言论自由，所以我可以在法庭上大声喧哗，法官管不着。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将宪法语境下的言论自由偷换成在任何场合都可以无限制说话。"
+  },
+  {
+    "id": "F1-26",
+    "fallacy_type": "偷换概念",
+    "text": "人人生而平等，意味着每个人的能力都一样，所以谁都不应该比别人赚得多。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将权利与尊严的平等偷换为天赋与能力完全相等。"
+  },
+  {
+    "id": "F1-27",
+    "fallacy_type": "偷换概念",
+    "text": "这个理论只是假说，所以它根本不成立。",
+    "ground_truth_fallacy": true,
+    "trap_description": "混淆科学用语“假说”与日常用语“假想”，无视假说有证据支撑。"
+  },
+  {
+    "id": "F1-28",
+    "fallacy_type": "偷换概念",
+    "text": "他有坏心，因为他的心确实不好看。",
+    "ground_truth_fallacy": true,
+    "trap_description": "利用“心”的字面义（器官）和比喻义（品德）进行诡辩。"
+  },
+  {
+    "id": "F1-29",
+    "fallacy_type": "稻草人谬误",
+    "text": "你主张减少国防开支，难道想让国家被侵略时束手无策吗？",
+    "ground_truth_fallacy": true,
+    "trap_description": "把对方的温和主张歪曲成极端版本“完全放弃防御”，再加以攻击。"
+  },
+  {
+    "id": "F1-30",
+    "fallacy_type": "稻草人谬误",
+    "text": "提倡环保的那些极端分子是想关掉所有工厂，让我们回到农耕时代。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将环保主张曲解为反工业、反文明的激进诉求。"
+  },
+  {
+    "id": "F1-31",
+    "fallacy_type": "稻草人谬误",
+    "text": "反对这项社会监控法案的人，根本不在乎民众安全，他们宁愿看到犯罪横行。",
+    "ground_truth_fallacy": true,
+    "trap_description": "将“反对某项特定监控措施”歪曲为“完全不顾安全、纵容犯罪”。"
+  },
+  {
+    "id": "F1-32",
+    "fallacy_type": "稻草人谬误",
+    "text": "你建议取消考试，这不就是让大家都别学习了，国家未来靠一群文盲吗？",
+    "ground_truth_fallacy": true,
+    "trap_description": "把“改革或取消某类考试”夸张为“取消一切学习和教育”。"
+  }
+]
